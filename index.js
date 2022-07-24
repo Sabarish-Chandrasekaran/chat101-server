@@ -25,7 +25,7 @@ const server = app.listen(process.env.PORT, () => {
 const io = require("socket.io")(server, {
   pingTimeout: 60000,
   cors: {
-    origin: "https://chat-1-on-1.herokuapp.com",
+    origin: "http://localhost:3000/",
     // credentials: true,
   },
 });
