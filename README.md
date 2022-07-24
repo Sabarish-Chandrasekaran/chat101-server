@@ -34,7 +34,7 @@ https://chat-1-on-1.netlify.app/
 ![](https://github.com/Sabarish-Chandrasekaran/chat101-screenshot/blob/main/notification.png)
 ### Add or Remove users from group
 ![](https://github.com/Sabarish-Chandrasekaran/chat101-screenshot/blob/main/groupedit.png)
-### View Other user Profile
+### View Other User Profile
 ![](https://github.com/Sabarish-Chandrasekaran/chat101-screenshot/blob/main/profile.png)
 ## Made By
 
